@@ -1,5 +1,5 @@
 # Chikyuu
-Project to study about GPS(Global Positioning System).
+Project to study about GPS(Global Positioning System) using Gps Neo6mv2 module, NodeJs and Arduino.
 
 ## Getting Started
 
@@ -13,6 +13,10 @@ Project to study about GPS(Global Positioning System).
 * git clone https://github.com/sidneynakatani/chikyuu.git
 * npm install --save-dev serialport
 * Download GPS lib's to connect Arduino - <a href="https://github.com/mikalhart/TinyGPSPlus/releases" target="_blank">download</a>
+
+## More
+
+Blog about the project: http://nakalabs.herokuapp.com/articles/moduloGPS.html
 
 ## Authors
 
