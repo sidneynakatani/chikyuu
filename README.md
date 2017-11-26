@@ -16,7 +16,7 @@ Project to study about GPS(Global Positioning System) using Gps Neo6mv2 module, 
 
 ## More
 
-Blog about the project: http://nakalabs.herokuapp.com/articles/moduloGPS.html
+Blog about the project(Portuguese version): http://nakalabs.herokuapp.com/articles/moduloGPS.html
 
 ## Authors
 
