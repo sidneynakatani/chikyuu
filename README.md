@@ -1,5 +1,5 @@
 # Chikyuu
-Project to study about GPS(Global Positioning System) using Gps Neo6mv2 module, NodeJs and Arduino.
+Project to study GPS(Global Positioning System) using Gps Neo6mv2 module, NodeJs and Arduino.
 
 ## Getting Started
 
